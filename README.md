@@ -9,4 +9,4 @@ I am changing the read me file for the diff too l changes
 I am changing this for a new feature 
 Making this change in the branch
 
-Making second change in branch
+This is a mere conflict
