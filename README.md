@@ -10,7 +10,11 @@ I am changing this for a new feature
 Making this change in the branch
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Thisis master conflict
 =======
 This is a mere conflict
+>>>>>>> very-bad
+=======
+This is a again a conflict which needs to be resolved 
 >>>>>>> very-bad
